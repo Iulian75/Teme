@@ -6,17 +6,17 @@ public class Homework9 {
 
         //Exercitiu 1
 
-//        String str = "Hello";
-//
-//        if (str.length() > 5) {
-//            System.out.println("The length greater than 5");
-//        } else {
-//            if (str.equals("Hello")) {
-//                System.out.println("The string is equal to Hello.");
-//            } else {
-//                System.out.println("The string is not greater than 5 nor equal to Hello");
-//            }
-//        }
+        String str = "Hello";
+
+        if (str.length() > 5) {
+            System.out.println("The length greater than 5");
+        } else {
+            if (str.equals("Hello")) {
+                System.out.println("The string is equal to Hello.");
+            } else {
+                System.out.println("The string is not greater than 5 nor equal to Hello");
+            }
+        }
 
         //Exercitiu 2
 
