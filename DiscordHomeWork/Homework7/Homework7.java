@@ -5,24 +5,24 @@ public class Homework7 {
 
         //Exercitiu 1
 
-        int x = 5;
-        if (x> 10){
-            System.out.println("x is greater than 10");
-        } else {
-            System.out.println("x is not greater than 10");
-        }
-
-        //Exercitiu 2
-
-        String msj = "Hello";
-        if (msj.length() > 5){
-            System.out.println("The length of string is greater than 5");
-        } else {
-            if (msj.equals("Hello")){
-                System.out.println("The string is equal to Hello");
-            }else {
-                System.out.println("The string is neither grater than 5 nor equal to Hello");
-            }
+//        int x = 5;
+//        if (x > 10) {
+//            System.out.println("x is greater than 10");
+//        } else {
+//            System.out.println("x is not greater than 10");
+//        }
+//
+//        //Exercitiu 2
+//
+//        String msj = "Hello";
+//        if (msj.length() > 5) {
+//            System.out.println("The length of string is greater than 5");
+//        } else {
+//            if (msj.equals("Hello")) {
+//                System.out.println("The string is equal to Hello");
+//            } else {
+//                System.out.println("The string is neither grater than 5 nor equal to Hello");
+//            }
 
             //Exercitiu 3
 
@@ -39,4 +39,4 @@ public class Homework7 {
 
         }
     }
-}
+
